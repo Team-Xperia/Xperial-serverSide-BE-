@@ -8,7 +8,11 @@ Clone the repo:
 
 ```bash
 git https://github.com/Team-Xperia/Xperial-serverSide-BE-.git
+<<<<<<< HEAD
 cd xperia
+=======
+
+>>>>>>> 662fe2f941fe29a0cdbfccea1cb8664023c6503c
 ```
 
 Install the dependencies:
@@ -45,7 +49,7 @@ The environment variables can be found and modified in the `.env` file. They com
 
 ```bash
 # Port number
-PORT=4000
+PORT=5000
 
 ```
 
