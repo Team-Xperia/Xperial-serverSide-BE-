@@ -1,0 +1,48 @@
+{
+  "name": "dpr-5-be",
+  "version": "1.0.0",
+  "description": "\"hack4futo project by team Xperia\"",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "NODE_ENV=production nodemon src/server.js"
+  },
+  "author": "\"Gospel Nweke\"",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "helmet": "^7.0.0",
+    "html-to-text": "^9.0.5",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.2",
+    "pug": "^3.0.2",
+    "sharp": "^0.32.1",
+    "sib-api-v3-sdk": "^8.5.0",
+    "slugify": "^1.6.6",
+    "validator": "^13.9.0",
+    "xss": "^1.0.14",
+    "xss-clean": "^0.1.1",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.30.1",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.7.1"
+  },
+  "keywords": []
+}
