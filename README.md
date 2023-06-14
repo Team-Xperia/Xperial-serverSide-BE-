@@ -1,5 +1,6 @@
 # Hack4Futo RESTful API
-#### __ helps thousands of individuals say students across various citadel of learning to ease you, and expose businesses around you.
+
+#### \_\_ helps thousands of individuals say students across various citadel of learning to ease you, and expose businesses around you.
 
 ## Get Started
 
@@ -7,7 +8,7 @@ Clone the repo:
 
 ```bash
 git https://github.com/Team-Xperia/Xperial-serverSide-BE-.git
-cd DPR-5-BE
+cd xperia
 ```
 
 Install the dependencies:
